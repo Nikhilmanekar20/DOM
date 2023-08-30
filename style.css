@@ -1,0 +1,14 @@
+#flex-property{
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+}
+.card {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    justify-content: space-between;
+    margin: 20px;
+    background-color: aquamarine;
+}
